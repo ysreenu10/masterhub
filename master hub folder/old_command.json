@@ -1,0 +1,3904 @@
+[
+    {
+        "event_id": 3,
+        "timestamp": "2026-05-11 16:14:14",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.56,
+            "attention": 0.17
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 6,
+        "timestamp": "2026-05-11 16:14:17",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.8,
+            "attention": 0.71
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 10,
+        "timestamp": "2026-05-11 16:14:21",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.99,
+            "attention": 0.36
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 17,
+        "timestamp": "2026-05-11 16:14:29",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.64,
+            "attention": 0.4
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 18,
+        "timestamp": "2026-05-11 16:14:30",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.56,
+            "attention": 0.37
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 21,
+        "timestamp": "2026-05-11 16:14:33",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.58,
+            "attention": 0.42
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 23,
+        "timestamp": "2026-05-11 16:14:35",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.82,
+            "attention": 0.4
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 24,
+        "timestamp": "2026-05-11 16:14:36",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.75,
+            "attention": 0.26
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 30,
+        "timestamp": "2026-05-11 16:14:42",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.61,
+            "attention": 0.92
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 34,
+        "timestamp": "2026-05-11 16:14:47",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.74,
+            "attention": 0.16
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 35,
+        "timestamp": "2026-05-11 16:14:48",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.68,
+            "attention": 0.86
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 39,
+        "timestamp": "2026-05-11 16:14:52",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.75,
+            "attention": 0.23
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 42,
+        "timestamp": "2026-05-11 16:14:55",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.77,
+            "attention": 0.87
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 48,
+        "timestamp": "2026-05-11 16:15:01",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.75,
+            "attention": 0.23
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 49,
+        "timestamp": "2026-05-11 16:15:02",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.65,
+            "attention": 0.55
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 56,
+        "timestamp": "2026-05-11 16:15:10",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.51,
+            "attention": 0.61
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 59,
+        "timestamp": "2026-05-11 16:15:13",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.65,
+            "attention": 0.55
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 60,
+        "timestamp": "2026-05-11 16:15:14",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.53,
+            "attention": 0.11
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 61,
+        "timestamp": "2026-05-11 16:15:15",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.82,
+            "attention": 0.7
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 62,
+        "timestamp": "2026-05-11 16:15:16",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.53,
+            "attention": 0.21
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 65,
+        "timestamp": "2026-05-11 16:15:19",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.77,
+            "attention": 0.63
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 71,
+        "timestamp": "2026-05-11 16:15:26",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.68,
+            "attention": 0.7
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 76,
+        "timestamp": "2026-05-11 16:15:31",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.94,
+            "attention": 0.9
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 81,
+        "timestamp": "2026-05-11 16:15:36",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.94,
+            "attention": 0.71
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 82,
+        "timestamp": "2026-05-11 16:15:37",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.63,
+            "attention": 1.0
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 85,
+        "timestamp": "2026-05-11 16:15:41",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.53,
+            "attention": 0.11
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 91,
+        "timestamp": "2026-05-11 16:15:47",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.84,
+            "attention": 0.3
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 92,
+        "timestamp": "2026-05-11 16:15:48",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.81,
+            "attention": 0.79
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 95,
+        "timestamp": "2026-05-11 16:15:51",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.74,
+            "attention": 0.16
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 96,
+        "timestamp": "2026-05-11 16:15:52",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.87,
+            "attention": 0.41
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 101,
+        "timestamp": "2026-05-11 16:15:57",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.53,
+            "attention": 0.21
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 103,
+        "timestamp": "2026-05-11 16:16:00",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.72,
+            "attention": 0.42
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 105,
+        "timestamp": "2026-05-11 16:16:02",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.97,
+            "attention": 0.54
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 107,
+        "timestamp": "2026-05-11 16:16:04",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.71,
+            "attention": 0.14
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 108,
+        "timestamp": "2026-05-11 16:16:05",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.55,
+            "attention": 0.56
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 110,
+        "timestamp": "2026-05-11 16:16:07",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.69,
+            "attention": 0.69
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 111,
+        "timestamp": "2026-05-11 16:16:08",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.72,
+            "attention": 0.42
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 117,
+        "timestamp": "2026-05-11 16:16:14",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.8,
+            "attention": 0.18
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 120,
+        "timestamp": "2026-05-11 16:16:18",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.73,
+            "attention": 0.54
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 124,
+        "timestamp": "2026-05-11 16:16:22",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.59,
+            "attention": 0.74
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 126,
+        "timestamp": "2026-05-11 16:16:24",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.86,
+            "attention": 0.6
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 131,
+        "timestamp": "2026-05-11 16:16:29",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.94,
+            "attention": 0.33
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 132,
+        "timestamp": "2026-05-11 16:16:30",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.91,
+            "attention": 0.24
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 134,
+        "timestamp": "2026-05-11 16:16:32",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.58,
+            "attention": 0.14
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 135,
+        "timestamp": "2026-05-11 16:16:34",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.51,
+            "attention": 0.78
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 136,
+        "timestamp": "2026-05-11 16:16:35",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.81,
+            "attention": 0.81
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 138,
+        "timestamp": "2026-05-11 16:16:37",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.85,
+            "attention": 0.23
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 139,
+        "timestamp": "2026-05-11 16:16:38",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.82,
+            "attention": 0.96
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 141,
+        "timestamp": "2026-05-11 16:16:40",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.52,
+            "attention": 0.23
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 145,
+        "timestamp": "2026-05-11 16:16:44",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.87,
+            "attention": 0.41
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 153,
+        "timestamp": "2026-05-11 16:16:53",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.94,
+            "attention": 0.22
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 159,
+        "timestamp": "2026-05-11 16:16:59",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.62,
+            "attention": 0.99
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 161,
+        "timestamp": "2026-05-11 16:17:01",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.67,
+            "attention": 0.2
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 163,
+        "timestamp": "2026-05-11 16:17:03",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.93,
+            "attention": 0.59
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 165,
+        "timestamp": "2026-05-11 16:17:05",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.8,
+            "attention": 0.18
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 166,
+        "timestamp": "2026-05-11 16:17:06",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.73,
+            "attention": 0.34
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 169,
+        "timestamp": "2026-05-11 16:17:10",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.51,
+            "attention": 0.82
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 173,
+        "timestamp": "2026-05-11 16:17:14",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.54,
+            "attention": 0.61
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 177,
+        "timestamp": "2026-05-11 16:17:18",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.67,
+            "attention": 0.83
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 178,
+        "timestamp": "2026-05-11 16:17:19",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.66,
+            "attention": 0.76
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 184,
+        "timestamp": "2026-05-11 16:17:25",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.81,
+            "attention": 0.27
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 186,
+        "timestamp": "2026-05-11 16:17:28",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.74,
+            "attention": 0.16
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 187,
+        "timestamp": "2026-05-11 16:17:29",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.82,
+            "attention": 0.59
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 192,
+        "timestamp": "2026-05-11 16:17:34",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.83,
+            "attention": 0.19
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 200,
+        "timestamp": "2026-05-11 16:17:42",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.79,
+            "attention": 0.33
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 207,
+        "timestamp": "2026-05-11 16:17:50",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.84,
+            "attention": 0.67
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 209,
+        "timestamp": "2026-05-11 16:17:52",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.54,
+            "attention": 0.61
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 211,
+        "timestamp": "2026-05-11 16:17:54",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.94,
+            "attention": 0.71
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 212,
+        "timestamp": "2026-05-11 16:17:55",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.58,
+            "attention": 0.42
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 214,
+        "timestamp": "2026-05-11 16:17:57",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.51,
+            "attention": 0.13
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 215,
+        "timestamp": "2026-05-11 16:17:58",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.93,
+            "attention": 0.17
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 219,
+        "timestamp": "2026-05-11 16:18:02",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.99,
+            "attention": 0.5
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 220,
+        "timestamp": "2026-05-11 16:18:03",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.69,
+            "attention": 0.84
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 222,
+        "timestamp": "2026-05-11 16:18:06",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.74,
+            "attention": 0.58
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 227,
+        "timestamp": "2026-05-11 16:18:11",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.91,
+            "attention": 0.44
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 228,
+        "timestamp": "2026-05-11 16:18:12",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.61,
+            "attention": 0.92
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 229,
+        "timestamp": "2026-05-11 16:18:13",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.55,
+            "attention": 0.56
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 234,
+        "timestamp": "2026-05-11 16:18:18",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.99,
+            "attention": 0.36
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 236,
+        "timestamp": "2026-05-11 16:18:20",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.92,
+            "attention": 0.24
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 241,
+        "timestamp": "2026-05-11 16:18:26",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.72,
+            "attention": 0.12
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 242,
+        "timestamp": "2026-05-11 16:18:27",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.83,
+            "attention": 0.63
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 247,
+        "timestamp": "2026-05-11 16:18:32",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.68,
+            "attention": 0.75
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 251,
+        "timestamp": "2026-05-11 16:18:36",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 1.0,
+            "attention": 0.41
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 253,
+        "timestamp": "2026-05-11 16:18:38",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.94,
+            "attention": 0.57
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 254,
+        "timestamp": "2026-05-11 16:18:40",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.84,
+            "attention": 0.67
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 256,
+        "timestamp": "2026-05-11 16:18:42",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.61,
+            "attention": 0.75
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 258,
+        "timestamp": "2026-05-11 16:18:44",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.66,
+            "attention": 0.1
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 259,
+        "timestamp": "2026-05-11 16:18:45",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.94,
+            "attention": 0.9
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 264,
+        "timestamp": "2026-05-11 16:18:50",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.74,
+            "attention": 0.5
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 268,
+        "timestamp": "2026-05-11 16:18:54",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.59,
+            "attention": 0.16
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 270,
+        "timestamp": "2026-05-11 16:18:56",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.72,
+            "attention": 0.26
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 278,
+        "timestamp": "2026-05-11 16:19:05",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.84,
+            "attention": 0.67
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 279,
+        "timestamp": "2026-05-11 16:19:06",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.98,
+            "attention": 0.77
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 283,
+        "timestamp": "2026-05-11 16:19:10",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.83,
+            "attention": 0.63
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 285,
+        "timestamp": "2026-05-11 16:19:12",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.73,
+            "attention": 0.9
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 286,
+        "timestamp": "2026-05-11 16:19:13",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.97,
+            "attention": 0.95
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 288,
+        "timestamp": "2026-05-11 16:19:16",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.87,
+            "attention": 0.81
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 289,
+        "timestamp": "2026-05-11 16:19:17",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.53,
+            "attention": 0.3
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 290,
+        "timestamp": "2026-05-11 16:19:18",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.71,
+            "attention": 0.8
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 291,
+        "timestamp": "2026-05-11 16:19:19",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.82,
+            "attention": 0.7
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 292,
+        "timestamp": "2026-05-11 16:19:20",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.58,
+            "attention": 0.14
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 296,
+        "timestamp": "2026-05-11 16:19:25",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.77,
+            "attention": 0.46
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 297,
+        "timestamp": "2026-05-11 16:19:26",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.7,
+            "attention": 0.3
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 305,
+        "timestamp": "2026-05-11 16:19:35",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.75,
+            "attention": 0.29
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 307,
+        "timestamp": "2026-05-11 16:19:37",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.83,
+            "attention": 0.19
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 311,
+        "timestamp": "2026-05-11 16:19:41",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.87,
+            "attention": 0.2
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 313,
+        "timestamp": "2026-05-11 16:19:44",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.64,
+            "attention": 0.51
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 326,
+        "timestamp": "2026-05-11 16:19:58",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.72,
+            "attention": 0.54
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 328,
+        "timestamp": "2026-05-11 16:20:01",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.68,
+            "attention": 0.75
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 332,
+        "timestamp": "2026-05-11 16:20:05",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.95,
+            "attention": 0.36
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 339,
+        "timestamp": "2026-05-11 16:20:13",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.77,
+            "attention": 0.87
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 342,
+        "timestamp": "2026-05-11 16:20:16",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.55,
+            "attention": 0.56
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 362,
+        "timestamp": "2026-05-11 16:20:39",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.97,
+            "attention": 0.46
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 363,
+        "timestamp": "2026-05-11 16:20:40",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.61,
+            "attention": 0.24
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 364,
+        "timestamp": "2026-05-11 16:20:41",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.97,
+            "attention": 0.73
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 367,
+        "timestamp": "2026-05-11 16:20:44",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.96,
+            "attention": 0.42
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 370,
+        "timestamp": "2026-05-11 16:20:48",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.93,
+            "attention": 0.46
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 376,
+        "timestamp": "2026-05-11 16:20:55",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.74,
+            "attention": 0.5
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 383,
+        "timestamp": "2026-05-11 16:21:02",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.92,
+            "attention": 0.24
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 387,
+        "timestamp": "2026-05-11 16:21:07",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.83,
+            "attention": 0.19
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 388,
+        "timestamp": "2026-05-11 16:21:08",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.96,
+            "attention": 0.42
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 391,
+        "timestamp": "2026-05-11 16:21:11",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.65,
+            "attention": 0.55
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 394,
+        "timestamp": "2026-05-11 16:21:15",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.53,
+            "attention": 0.52
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 395,
+        "timestamp": "2026-05-11 16:21:16",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.69,
+            "attention": 0.84
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 397,
+        "timestamp": "2026-05-11 16:21:18",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.67,
+            "attention": 0.25
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 399,
+        "timestamp": "2026-05-11 16:21:20",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.76,
+            "attention": 0.13
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 407,
+        "timestamp": "2026-05-11 16:21:29",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.59,
+            "attention": 0.16
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 408,
+        "timestamp": "2026-05-11 16:21:30",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.93,
+            "attention": 0.46
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 409,
+        "timestamp": "2026-05-11 16:21:32",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.96,
+            "attention": 0.42
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 411,
+        "timestamp": "2026-05-11 16:21:34",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.95,
+            "attention": 0.11
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 412,
+        "timestamp": "2026-05-11 16:21:35",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.76,
+            "attention": 0.76
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 413,
+        "timestamp": "2026-05-11 16:21:36",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.88,
+            "attention": 0.21
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 417,
+        "timestamp": "2026-05-11 16:21:41",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.94,
+            "attention": 0.9
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 419,
+        "timestamp": "2026-05-11 16:21:43",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.66,
+            "attention": 0.65
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 426,
+        "timestamp": "2026-05-11 16:21:51",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.99,
+            "attention": 0.43
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 427,
+        "timestamp": "2026-05-11 16:21:52",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.9,
+            "attention": 0.19
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 432,
+        "timestamp": "2026-05-11 16:21:57",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.64,
+            "attention": 0.51
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 436,
+        "timestamp": "2026-05-11 16:22:02",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.93,
+            "attention": 0.28
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 440,
+        "timestamp": "2026-05-11 16:22:06",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.84,
+            "attention": 0.51
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 442,
+        "timestamp": "2026-05-11 16:22:09",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.59,
+            "attention": 0.74
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 445,
+        "timestamp": "2026-05-11 16:22:12",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.81,
+            "attention": 0.81
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 449,
+        "timestamp": "2026-05-11 16:22:16",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.84,
+            "attention": 0.3
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 450,
+        "timestamp": "2026-05-11 16:22:17",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.91,
+            "attention": 0.51
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 451,
+        "timestamp": "2026-05-11 16:22:19",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.76,
+            "attention": 0.13
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 452,
+        "timestamp": "2026-05-11 16:22:20",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.88,
+            "attention": 0.62
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 454,
+        "timestamp": "2026-05-11 16:22:22",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.98,
+            "attention": 0.77
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 457,
+        "timestamp": "2026-05-11 16:22:25",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.56,
+            "attention": 0.17
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 463,
+        "timestamp": "2026-05-11 16:22:32",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.93,
+            "attention": 0.46
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 464,
+        "timestamp": "2026-05-11 16:22:33",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.56,
+            "attention": 0.43
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 466,
+        "timestamp": "2026-05-11 16:22:35",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.79,
+            "attention": 0.89
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 471,
+        "timestamp": "2026-05-11 16:22:41",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.77,
+            "attention": 0.87
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 472,
+        "timestamp": "2026-05-11 16:22:42",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.58,
+            "attention": 0.41
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 474,
+        "timestamp": "2026-05-11 16:22:44",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.71,
+            "attention": 0.8
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 483,
+        "timestamp": "2026-05-11 16:22:54",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.74,
+            "attention": 0.58
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 490,
+        "timestamp": "2026-05-11 16:23:01",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.99,
+            "attention": 0.43
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 494,
+        "timestamp": "2026-05-11 16:23:06",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.82,
+            "attention": 0.4
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 500,
+        "timestamp": "2026-05-11 16:23:12",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.61,
+            "attention": 0.68
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 502,
+        "timestamp": "2026-05-11 16:23:14",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.74,
+            "attention": 0.46
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 503,
+        "timestamp": "2026-05-11 16:23:15",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.91,
+            "attention": 0.51
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 507,
+        "timestamp": "2026-05-11 16:23:20",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.84,
+            "attention": 0.3
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 509,
+        "timestamp": "2026-05-11 16:23:22",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.82,
+            "attention": 0.45
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 511,
+        "timestamp": "2026-05-11 16:23:24",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.52,
+            "attention": 0.73
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 516,
+        "timestamp": "2026-05-11 16:23:30",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.87,
+            "attention": 0.16
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 521,
+        "timestamp": "2026-05-11 16:23:35",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.83,
+            "attention": 0.41
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 522,
+        "timestamp": "2026-05-11 16:23:37",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.73,
+            "attention": 0.54
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 524,
+        "timestamp": "2026-05-11 16:23:39",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.83,
+            "attention": 0.19
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 530,
+        "timestamp": "2026-05-11 16:23:46",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.86,
+            "attention": 0.36
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 534,
+        "timestamp": "2026-05-11 16:23:50",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.91,
+            "attention": 0.23
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 540,
+        "timestamp": "2026-05-11 16:23:57",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.54,
+            "attention": 0.38
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 541,
+        "timestamp": "2026-05-11 16:23:58",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.82,
+            "attention": 0.39
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 546,
+        "timestamp": "2026-05-11 16:24:04",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.52,
+            "attention": 0.73
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 551,
+        "timestamp": "2026-05-11 16:24:09",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.69,
+            "attention": 0.64
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 552,
+        "timestamp": "2026-05-11 16:24:11",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.89,
+            "attention": 0.89
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 555,
+        "timestamp": "2026-05-11 16:24:14",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.81,
+            "attention": 0.85
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 562,
+        "timestamp": "2026-05-11 16:24:22",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.95,
+            "attention": 0.96
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 565,
+        "timestamp": "2026-05-11 16:24:25",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.59,
+            "attention": 0.72
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 569,
+        "timestamp": "2026-05-11 16:24:30",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.69,
+            "attention": 0.64
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 570,
+        "timestamp": "2026-05-11 16:24:31",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.64,
+            "attention": 0.86
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 575,
+        "timestamp": "2026-05-11 16:24:37",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.55,
+            "attention": 0.56
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 578,
+        "timestamp": "2026-05-11 16:24:40",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.84,
+            "attention": 0.51
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 580,
+        "timestamp": "2026-05-11 16:24:42",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.57,
+            "attention": 0.43
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 582,
+        "timestamp": "2026-05-11 16:24:44",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.8,
+            "attention": 0.55
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 585,
+        "timestamp": "2026-05-11 16:24:48",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.94,
+            "attention": 0.27
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 590,
+        "timestamp": "2026-05-11 16:24:54",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.69,
+            "attention": 0.79
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 592,
+        "timestamp": "2026-05-11 16:24:56",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.52,
+            "attention": 0.73
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 596,
+        "timestamp": "2026-05-11 16:25:00",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.54,
+            "attention": 0.72
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 597,
+        "timestamp": "2026-05-11 16:25:02",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.61,
+            "attention": 0.92
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 598,
+        "timestamp": "2026-05-11 16:25:03",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.74,
+            "attention": 0.61
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 603,
+        "timestamp": "2026-05-11 16:25:08",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.54,
+            "attention": 0.72
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 610,
+        "timestamp": "2026-05-11 16:25:16",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.52,
+            "attention": 0.75
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 622,
+        "timestamp": "2026-05-11 16:25:30",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.83,
+            "attention": 0.41
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 631,
+        "timestamp": "2026-05-11 16:25:40",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.55,
+            "attention": 0.47
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 634,
+        "timestamp": "2026-05-11 16:25:44",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.79,
+            "attention": 0.92
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 647,
+        "timestamp": "2026-05-11 16:25:58",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.8,
+            "attention": 0.98
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 649,
+        "timestamp": "2026-05-11 16:26:01",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.96,
+            "attention": 0.42
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 651,
+        "timestamp": "2026-05-11 16:26:03",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.8,
+            "attention": 0.98
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 656,
+        "timestamp": "2026-05-11 16:26:08",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.51,
+            "attention": 0.61
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 662,
+        "timestamp": "2026-05-11 16:26:15",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.66,
+            "attention": 0.24
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 663,
+        "timestamp": "2026-05-11 16:26:16",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.94,
+            "attention": 0.42
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 665,
+        "timestamp": "2026-05-11 16:26:18",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.82,
+            "attention": 0.4
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 667,
+        "timestamp": "2026-05-11 16:26:20",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.56,
+            "attention": 0.17
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 669,
+        "timestamp": "2026-05-11 16:26:22",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.76,
+            "attention": 0.76
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 670,
+        "timestamp": "2026-05-11 16:26:23",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.75,
+            "attention": 0.29
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 673,
+        "timestamp": "2026-05-11 16:26:26",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.61,
+            "attention": 0.35
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 683,
+        "timestamp": "2026-05-11 16:26:37",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.81,
+            "attention": 0.66
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 691,
+        "timestamp": "2026-05-11 16:26:45",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.64,
+            "attention": 0.4
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 698,
+        "timestamp": "2026-05-11 16:26:53",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.54,
+            "attention": 0.16
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 700,
+        "timestamp": "2026-05-11 16:26:55",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.55,
+            "attention": 0.47
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 705,
+        "timestamp": "2026-05-11 16:27:00",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.53,
+            "attention": 0.93
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 710,
+        "timestamp": "2026-05-11 16:27:06",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.98,
+            "attention": 0.59
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 715,
+        "timestamp": "2026-05-11 16:27:11",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.67,
+            "attention": 0.83
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 716,
+        "timestamp": "2026-05-11 16:27:12",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.74,
+            "attention": 0.16
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 718,
+        "timestamp": "2026-05-11 16:27:14",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.78,
+            "attention": 0.69
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 725,
+        "timestamp": "2026-05-11 16:27:22",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.97,
+            "attention": 0.73
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 727,
+        "timestamp": "2026-05-11 16:27:24",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.53,
+            "attention": 0.86
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 733,
+        "timestamp": "2026-05-11 16:27:30",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.9,
+            "attention": 0.9
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 734,
+        "timestamp": "2026-05-11 16:27:31",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.7,
+            "attention": 0.3
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 745,
+        "timestamp": "2026-05-11 16:27:43",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.79,
+            "attention": 0.89
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 746,
+        "timestamp": "2026-05-11 16:27:44",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.97,
+            "attention": 0.92
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 751,
+        "timestamp": "2026-05-11 16:27:49",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.59,
+            "attention": 0.74
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 752,
+        "timestamp": "2026-05-11 16:27:50",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.74,
+            "attention": 0.2
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 756,
+        "timestamp": "2026-05-11 16:27:55",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.96,
+            "attention": 0.19
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 757,
+        "timestamp": "2026-05-11 16:27:56",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.75,
+            "attention": 0.69
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 759,
+        "timestamp": "2026-05-11 16:27:58",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.89,
+            "attention": 0.92
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 761,
+        "timestamp": "2026-05-11 16:28:00",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.58,
+            "attention": 0.41
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 762,
+        "timestamp": "2026-05-11 16:28:01",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.66,
+            "attention": 0.34
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 763,
+        "timestamp": "2026-05-11 16:28:02",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.77,
+            "attention": 0.63
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 767,
+        "timestamp": "2026-05-11 16:28:06",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.97,
+            "attention": 0.76
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 771,
+        "timestamp": "2026-05-11 16:28:10",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.68,
+            "attention": 0.44
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 773,
+        "timestamp": "2026-05-11 16:28:13",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.9,
+            "attention": 0.88
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 774,
+        "timestamp": "2026-05-11 16:28:14",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.93,
+            "attention": 0.28
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 781,
+        "timestamp": "2026-05-11 16:28:21",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.61,
+            "attention": 0.86
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 784,
+        "timestamp": "2026-05-11 16:28:24",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.88,
+            "attention": 0.45
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 808,
+        "timestamp": "2026-05-11 16:28:50",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.9,
+            "attention": 0.19
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 809,
+        "timestamp": "2026-05-11 16:28:51",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.74,
+            "attention": 0.16
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 810,
+        "timestamp": "2026-05-11 16:28:52",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.69,
+            "attention": 0.65
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 819,
+        "timestamp": "2026-05-11 16:29:01",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.71,
+            "attention": 0.14
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 820,
+        "timestamp": "2026-05-11 16:29:02",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.82,
+            "attention": 0.59
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 821,
+        "timestamp": "2026-05-11 16:29:03",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.55,
+            "attention": 0.32
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 822,
+        "timestamp": "2026-05-11 16:29:04",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 1.0,
+            "attention": 0.41
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 823,
+        "timestamp": "2026-05-11 16:29:06",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.57,
+            "attention": 0.79
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 824,
+        "timestamp": "2026-05-11 16:29:07",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.95,
+            "attention": 0.21
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 832,
+        "timestamp": "2026-05-11 16:29:15",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.96,
+            "attention": 0.42
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 835,
+        "timestamp": "2026-05-11 16:29:18",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.83,
+            "attention": 0.63
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 837,
+        "timestamp": "2026-05-11 16:29:20",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.99,
+            "attention": 0.43
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 838,
+        "timestamp": "2026-05-11 16:29:22",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.96,
+            "attention": 0.95
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 841,
+        "timestamp": "2026-05-11 16:29:25",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.61,
+            "attention": 0.68
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 844,
+        "timestamp": "2026-05-11 16:29:28",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.81,
+            "attention": 0.79
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 845,
+        "timestamp": "2026-05-11 16:29:29",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.65,
+            "attention": 0.85
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 848,
+        "timestamp": "2026-05-11 16:29:33",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.74,
+            "attention": 0.2
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 850,
+        "timestamp": "2026-05-11 16:29:35",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.97,
+            "attention": 0.96
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 851,
+        "timestamp": "2026-05-11 16:29:36",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.88,
+            "attention": 0.11
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 852,
+        "timestamp": "2026-05-11 16:29:37",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.53,
+            "attention": 0.31
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 854,
+        "timestamp": "2026-05-11 16:29:40",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.52,
+            "attention": 0.73
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 855,
+        "timestamp": "2026-05-11 16:29:41",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.61,
+            "attention": 0.75
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 859,
+        "timestamp": "2026-05-11 16:29:45",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.87,
+            "attention": 0.41
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 862,
+        "timestamp": "2026-05-11 16:29:49",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.57,
+            "attention": 0.32
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 863,
+        "timestamp": "2026-05-11 16:29:50",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.74,
+            "attention": 0.33
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 867,
+        "timestamp": "2026-05-11 16:29:54",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.69,
+            "attention": 0.84
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 869,
+        "timestamp": "2026-05-11 16:29:56",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.82,
+            "attention": 0.55
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 871,
+        "timestamp": "2026-05-11 16:29:59",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.66,
+            "attention": 0.94
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 877,
+        "timestamp": "2026-05-11 16:30:06",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.75,
+            "attention": 0.29
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 879,
+        "timestamp": "2026-05-11 16:30:08",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.85,
+            "attention": 0.7
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 880,
+        "timestamp": "2026-05-11 16:30:09",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.73,
+            "attention": 0.54
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 883,
+        "timestamp": "2026-05-11 16:30:12",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.56,
+            "attention": 0.71
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 884,
+        "timestamp": "2026-05-11 16:30:13",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.87,
+            "attention": 0.39
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 885,
+        "timestamp": "2026-05-11 16:30:15",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.97,
+            "attention": 0.95
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 889,
+        "timestamp": "2026-05-11 16:30:19",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.87,
+            "attention": 0.2
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 890,
+        "timestamp": "2026-05-11 16:30:20",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.68,
+            "attention": 0.7
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 892,
+        "timestamp": "2026-05-11 16:30:23",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.97,
+            "attention": 0.54
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 894,
+        "timestamp": "2026-05-11 16:30:25",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.77,
+            "attention": 0.46
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 902,
+        "timestamp": "2026-05-11 16:30:34",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.76,
+            "attention": 0.3
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 906,
+        "timestamp": "2026-05-11 16:30:39",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.51,
+            "attention": 0.13
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 907,
+        "timestamp": "2026-05-11 16:30:40",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.56,
+            "attention": 0.17
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 910,
+        "timestamp": "2026-05-11 16:30:43",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.89,
+            "attention": 0.89
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 914,
+        "timestamp": "2026-05-11 16:30:48",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.97,
+            "attention": 0.76
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 917,
+        "timestamp": "2026-05-11 16:30:51",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.94,
+            "attention": 0.57
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 918,
+        "timestamp": "2026-05-11 16:30:52",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.78,
+            "attention": 0.86
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 921,
+        "timestamp": "2026-05-11 16:30:56",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.66,
+            "attention": 0.87
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 936,
+        "timestamp": "2026-05-11 16:31:13",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.66,
+            "attention": 0.65
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 937,
+        "timestamp": "2026-05-11 16:31:14",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.96,
+            "attention": 0.67
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 938,
+        "timestamp": "2026-05-11 16:31:15",
+        "input_from_headset": {
+            "command": "Pull",
+            "confidence": 0.93,
+            "attention": 0.25
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 940,
+        "timestamp": "2026-05-11 16:31:17",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.53,
+            "attention": 0.81
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 941,
+        "timestamp": "2026-05-11 16:31:18",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.81,
+            "attention": 0.79
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 943,
+        "timestamp": "2026-05-11 16:31:21",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.66,
+            "attention": 0.34
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 945,
+        "timestamp": "2026-05-11 16:31:23",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.87,
+            "attention": 0.2
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 947,
+        "timestamp": "2026-05-11 16:31:25",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.82,
+            "attention": 0.7
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 950,
+        "timestamp": "2026-05-11 16:31:29",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.83,
+            "attention": 0.65
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 957,
+        "timestamp": "2026-05-11 16:31:37",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.83,
+            "attention": 0.19
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 960,
+        "timestamp": "2026-05-11 16:31:40",
+        "input_from_headset": {
+            "command": "Push",
+            "confidence": 0.62,
+            "attention": 0.68
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 961,
+        "timestamp": "2026-05-11 16:31:41",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.72,
+            "attention": 1.0
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 967,
+        "timestamp": "2026-05-11 16:31:48",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.53,
+            "attention": 0.81
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 979,
+        "timestamp": "2026-05-11 16:32:01",
+        "input_from_headset": {
+            "command": "Left",
+            "confidence": 0.76,
+            "attention": 0.76
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 982,
+        "timestamp": "2026-05-11 16:32:05",
+        "input_from_headset": {
+            "command": "Lift",
+            "confidence": 0.94,
+            "attention": 0.27
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 987,
+        "timestamp": "2026-05-11 16:32:10",
+        "input_from_headset": {
+            "command": "Rotate Left",
+            "confidence": 0.71,
+            "attention": 0.6
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 993,
+        "timestamp": "2026-05-11 16:32:17",
+        "input_from_headset": {
+            "command": "Drop",
+            "confidence": 0.73,
+            "attention": 0.54
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 994,
+        "timestamp": "2026-05-11 16:32:18",
+        "input_from_headset": {
+            "command": "Rotate Right",
+            "confidence": 0.82,
+            "attention": 0.63
+        },
+        "output_to_hub": {
+            "final_command": "Push",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 995,
+        "timestamp": "2026-05-11 16:32:19",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.61,
+            "attention": 0.68
+        },
+        "output_to_hub": {
+            "final_command": "Right",
+            "status": "accepted"
+        }
+    },
+    {
+        "event_id": 996,
+        "timestamp": "2026-05-11 16:32:20",
+        "input_from_headset": {
+            "command": "Right",
+            "confidence": 0.78,
+            "attention": 0.86
+        },
+        "output_to_hub": {
+            "final_command": "Pull",
+            "status": "corrected"
+        }
+    },
+    {
+        "event_id": 999,
+        "timestamp": "2026-05-11 16:32:24",
+        "input_from_headset": {
+            "command": "Neutral",
+            "confidence": 0.79,
+            "attention": 0.33
+        },
+        "output_to_hub": {
+            "final_command": "Left",
+            "status": "corrected"
+        }
+    }
+]
+
+
