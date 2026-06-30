@@ -3,8 +3,10 @@
 BROKER = "broker.hivemq.com"
 PORT = 8883
 
-DEVICE_ID_IOT = "004B12308100"
-DEVICE_ID_ROBO = "98A316BF2CC0"
+DEVICE_ID_IOT = "841FE82C1884"
+# DEVICE_ID_ROBO = "98A316BF2CC0"
+# DEVICE_ID_ROBO = "C0CDD68598AC"
+DEVICE_ID_ROBO = "004B12308100"
 
 STATUS_TOPICS = [
     f"home/{DEVICE_ID_IOT}/device/status",
@@ -18,6 +20,7 @@ STATUS_TOPICS = [
 ADB_PATH = r"C:\Users\91917\Downloads\master hub folder\master hub folder\senders\mobile_sender\bin\adb\adb.exe"
 
 ADB_DEVICE_ID = None
+       
+COMMAND_DELAY = 4
 
-COMMAND_DELAY = 1
 LOG_FILE = "logs.txt"

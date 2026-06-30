@@ -472,12 +472,12 @@ class MusicController:
 
         key_to_press = self.key_map.get(action)
 
+
         if key_to_press:
             found = self.focus_jiosaavn()
 
             if not found:
                 print("JioSaavn window not found. Sending global media key...")
-
             print(f"Triggering key: {key_to_press} for command: {command}")
 
             try:

@@ -1,6 +1,7 @@
 
 [
    
+   
     {"output_to_hub": {"final_command": "NEUTRAL_IOT"}},
     {"output_to_hub": {"final_command": "LEFT_LIGHT_ON"}},
     {"output_to_hub": {"final_command": "LEFT_FAN_ON"}},
@@ -9,9 +10,25 @@
     {"output_to_hub": {"final_command": "LEFT_FAN_OFF"}},
     {"output_to_hub": {"final_command": "LEFT_PUMP_OFF"}},
     
-    {"output_to_hub": {"final_command": "DROP"}},
 
     {"output_to_hub": {"final_command": "NEUTRAL_MOBILE"}},
+
+    {"output_to_hub": {"final_command": "RIGHT_PLAY/PAUSE"}},
+    {"output_to_hub": {"final_command": "RIGHT_NEXTTRACK"}},
+     {"output_to_hub": {"final_command": "RIGHT_NEXTTRACK"}},
+      {"output_to_hub": {"final_command": "RIGHT_NEXTTRACK"}},
+    {"output_to_hub": {"final_command": "RIGHT_PREVTRACK"}},
+    {"output_to_hub": {"final_command": "RIGHT_PREVTRACK"}},
+
+    {"output_to_hub": {"final_command": "RIGHT_VOLUMEUP"}},
+    {"output_to_hub": {"final_command": "RIGHT_VOLUMEDOWN"}},
+
+    {"output_to_hub": {"final_command": "RIGHT_HOME"}},
+    {"output_to_hub": {"final_command": "RIGHT_SEARCH"}},
+
+    {"output_to_hub": {"final_command": "DROP"}},
+
+       {"output_to_hub": {"final_command": "NEUTRAL_MOBILE"}},
 
     {"output_to_hub": {"final_command": "RIGHT_PLAY/PAUSE"}},
     {"output_to_hub": {"final_command": "RIGHT_NEXTTRACK"}},
@@ -52,7 +69,13 @@
 
     {"output_to_hub": {"final_command": "DROP"}},
 
-    
+      {"output_to_hub": {"final_command": "NEUTRAL_EMBEDDED"}},
+    {"output_to_hub": {"final_command": "POP_ROBO_FORWARD"}},
+    {"output_to_hub": {"final_command": "POP_ROBO_LEFT"}},
+    {"output_to_hub": {"final_command": "POP_ROBO_RIGHT"}},
+    {"output_to_hub": {"final_command": "POP_ROBO_BACKWARD"}},
+    {"output_to_hub": {"final_command": "POP_ROBO_STOP"}},
+    {"output_to_hub": {"final_command": "DROP"}},
   
     {"output_to_hub": {"final_command": "NEUTRAL_DESKTOP"}},
     {"output_to_hub": {"final_command": "PUSH_OPEN_NOTEPAD"}},

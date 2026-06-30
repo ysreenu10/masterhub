@@ -3,9 +3,7 @@
 # Target Selection: 'pc' (controls PC web browser) or 'mobile' (controls JioSaavn Android app)
 CONTROL_TARGET = "mobile"
 
-# ADB Configuration (Only used when CONTROL_TARGET is 'mobile')
-ADB_PATH = "adb"            # Executable name or absolute path. Will default to local download if not found.
-ADB_DEVICE_ID = None        # Set to specific device serial if multiple devices are plugged in
+
 
 # Emotiv Cortex API Credentials
 JIOSAAVN_URL = "https://www.jiosaavn.com/"
